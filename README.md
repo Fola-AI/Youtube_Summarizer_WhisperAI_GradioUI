@@ -125,3 +125,7 @@ Gradio team for the excellent UI framework
 
 
 **Note: This tool is for educational and personal use. Always respect copyright and content creator rights when processing videos.**
+<img width="1557" height="612" alt="Screenshot 2025-09-06 at 12 01 57" src="https://github.com/user-attachments/assets/8c44b880-3dde-4534-af55-bca2b6281a6a" />
+
+
+
